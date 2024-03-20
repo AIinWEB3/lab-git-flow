@@ -1,8 +1,8 @@
 const poems = [
   {
-    author: "Cece",
-    poem: "Roses are red \n Violets are blue \n Sunflowers are yellow \n I bet you were expecting something romantic but no -- these are just gardening facts.",
-    image: "sunflower.jpeg",
+    author: "macky",
+    poem: "Roses are red \n So with my eyes I traced the line Of the horizon, thin and fine \n Sunflowers are yellow \n I bet you were expecting something romantic but no -- these are just gardening facts.",
+    image: "pizza.jpeg",
   },
   {
     author: "Anvit",
@@ -13,7 +13,7 @@ const poems = [
     author: "Ernie",
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
-  },  
+  }
 ];
 
 let displayPoems = (array) => {
