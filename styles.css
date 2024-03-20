@@ -6,7 +6,7 @@
 
 /* YOUR CODE HERE: Change the background-color property of the <body> tag to a different color of your choice. */
 body {
-  background-color: red;
+  background-color: yellowgreen;
 }
 
 .page-header {
@@ -23,7 +23,7 @@ body {
 
 .poem {
   width: 100%;
-  background-color: blue;
+  background-color: white;
   margin-bottom: 1rem;
 }
 
