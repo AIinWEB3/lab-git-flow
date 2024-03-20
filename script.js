@@ -14,12 +14,6 @@ const poems = [
     poem: "Roses are red \n Violets are blue \n Jerry Seinfeld is considering \n Making Bee Movie 2",
     image: "bee.jpeg",
   },
- 
-  {
-    author:" Rita Dove",
-    poem:"Billie Holiday’s burned voice \n had as many shadows as lights, \n a mournful candelabra against a sleek piano, \n the gardenia her signature under that ruined face. \n (Now you’re cooking, drummer to bass \n magic spoon, magic needle. \n Take all day if you have to \n with your mirror and your bracelet of song. \n Fact is, the invention of women under siege \n has been to sharpen love in the service of myth. \n If you cant be free, be a mystery.",
-    image: "bee.jpeg"
-  }
 
   {
     author: "Genesis",
